@@ -1,0 +1,29 @@
+body{
+  font-family: 'Lora', serif;
+  
+}
+
+#navbarNavAltMarkup{
+  text-decoration: bold;
+  background-color: lightgray;
+  text-align: center;
+}
+#textt{
+  text-align: center;
+  background-color: lightgray;
+  padding: 15px;
+  width: 90%;
+  
+  
+}
+#heading2{
+  
+  font-weight: bold;
+}
+#heading1{
+  margin: 20px;
+  font-weight: bold;
+}
+#navibar{
+  background-color: gray;
+}
